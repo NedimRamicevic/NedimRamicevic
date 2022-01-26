@@ -21,7 +21,7 @@
 <h2 align="left">Let's get connected:</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/nedim-ramazanoglu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/@nedimramazanoglu-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height=22/></a>
+  <a href="https://www.linkedin.com/in/nedim-ramazanoğlu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/@nedimramazanoglu-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height=22/></a>
   <a href="mailto:mr.ramicevic@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/mr.ramicevic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" height=22/></a>
 </p>
 

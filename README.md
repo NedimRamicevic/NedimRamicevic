@@ -9,8 +9,9 @@
 - :hourglass_flowing_sand: I am an Industrial Engineer & MBA student
 - :rocket: Always ready to collaborate for Dev Experiments
 - :shamrock: I’m currently learning\
- ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;  ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;\
- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
+
+   ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;  ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;\
+   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
 - :e-mail: You can reach me via mr.ramiecvic@gmail.com
 
 </br>

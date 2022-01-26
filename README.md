@@ -9,7 +9,7 @@
 - :hourglass_flowing_sand: I am an Industrial Engineer
 - :rocket: Always ready to collaborate for Dev Experiments
 - :computer: Skills: HTML and CSS
-- :shamrock: I’m currently learning Flutter, JavaScript and React
+- :shamrock: I’m currently learning ![React](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;, ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; and ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 - :e-mail: You can reach me via mr.ramiecvic@gmail.com
 
 

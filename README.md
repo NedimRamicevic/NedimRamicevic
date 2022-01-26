@@ -13,11 +13,11 @@
  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
 - :e-mail: You can reach me via mr.ramiecvic@gmail.com
 
+</br>
 
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Rasstum&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="Rasstum" /> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rasstum&theme=midnight-purple&show_icons=true">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rasstum&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="Rasstum" /></p>
-
-</br></br></br></br></br></br></br>
+</br>
 
 <h2 align="left">Let's get connected:</h2>
 
@@ -26,4 +26,4 @@
   <a href="mailto:mr.ramicevic@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/mr.ramicevic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" height=22/></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rasstum&theme=midnight-purple&show_icons=true">
+

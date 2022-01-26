@@ -1,8 +1,5 @@
 # Hi, I'm Nedim
 
-<a href="https://github.com/Rasstum">
- <img src="https://avatars.githubusercontent.com/u/28512030?s=96&v=4&color=brightgreen" alt="page views" width="100" />
-  </a>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 

@@ -6,18 +6,16 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :hourglass_flowing_sand: I am an Industrial Engineer
+- :hourglass_flowing_sand: I am an Industrial Engineer & MBA student
 - :rocket: Always ready to collaborate for Dev Experiments
-- :computer: Skills: HTML and CSS
-- :shamrock: I’m currently learning
- ![React](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;,
- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ,
- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+- :shamrock: I’m currently learning\
+ ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;  ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;\
+ ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
 - :e-mail: You can reach me via mr.ramiecvic@gmail.com
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rasstum&show_icons=true&locale=en&layout=compact" alt="Rasstum" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rasstum&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="Rasstum" /></p>
 
 </br></br></br></br></br></br></br>
 
@@ -28,4 +26,4 @@
   <a href="mailto:mr.ramicevic@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/mr.ramicevic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" height=22/></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rasstum&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Rasstum&theme=midnight-purple&show_icons=true">

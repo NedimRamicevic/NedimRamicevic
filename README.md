@@ -9,8 +9,8 @@
 - :hourglass_flowing_sand: I am an Industrial Engineer
 - :rocket: Always ready to collaborate for Dev Experiments
 - :computer: Skills: HTML and CSS
-- :shamrock: I’m currently learning JavaScript, React.js and Angular
-- :e-mail: You can reach me via mr.ramazanoglu@gmail.com
+- :shamrock: I’m currently learning Flutter, JavaScript and React
+- :e-mail: You can reach me via mr.ramiecvic@gmail.com
 
 
 
@@ -21,8 +21,8 @@
 <h2 align="left">Let's get connected:</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/nedim-ramazanoglu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/@neimramazanoglu-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height=22/></a>
-  <a href="mailto:mr.ramicevic@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/mr.ramazanoglu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" height=22/></a>
+  <a href="https://www.linkedin.com/in/nedim-ramazanoglu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/@nedimramazanoglu-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height=22/></a>
+  <a href="mailto:mr.ramicevic@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/mr.ramicevic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" height=22/></a>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rasstum&show_icons=true">

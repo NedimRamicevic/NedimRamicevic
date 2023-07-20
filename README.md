@@ -11,9 +11,7 @@
  [![Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,tailwind)](https://skillicons.dev)
 - :e-mail: You can reach me via mr.ramicevic@gmail.com
 
-</br>
 
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=NedimRamicevic&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="Rasstum" /> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NedimRamicevic&theme=midnight-purple&show_icons=true">
 
 </br>
 

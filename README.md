@@ -8,7 +8,7 @@
 - :shamrock: I’m currently working on
 
    
-   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; [![NextJs](https://skillicons.dev/icons?i=nextjs,react,javascript,tailwind)](https://skillicons.dev)
+   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=nextjs)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; [![NextJs](https://skillicons.dev/icons?i=nextjs,react,javascript,tailwind)](https://skillicons.dev)
 - :e-mail: You can reach me via mr.ramicevic@gmail.com
 
 </br>

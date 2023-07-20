@@ -3,7 +3,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :hourglass_flowing_sand: I am an Industrial Engineer & MBA student
+- :hourglass_flowing_sand: I am a frontend developer
 - :rocket: Always ready to collaborate for Dev Experiments
 - :shamrock: I’m currently working on
 

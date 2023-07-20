@@ -9,7 +9,6 @@
 
    
  [![Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,tailwind)](https://skillicons.dev)
-- :e-mail: You can reach me via mr.ramicevic@gmail.com
 
 
 <p>

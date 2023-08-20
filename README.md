@@ -8,7 +8,7 @@
 - :shamrock: I’m currently working on
 
    
- [![Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,tailwind)](https://skillicons.dev)
+ [![Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,tailwind,angular)](https://skillicons.dev)
 
 
 <p>
